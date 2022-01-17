@@ -7,4 +7,4 @@ List of good readings on web3.
 
 ## Bull
 
-* [How NFTs Create Value] https://hbr.org/2021/11/how-nfts-create-value
+* [How NFTs Create Value](https://hbr.org/2021/11/how-nfts-create-value)
